@@ -1,6 +1,6 @@
 title: STDP
-greeting: Welcome to Small Town Data Portal
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+greeting: Welcome to the Small Town Data Portal
+description: A place where small towns can publish their open data. 
 baseurl: /jkan
 logo: /img/jkan.png
 
