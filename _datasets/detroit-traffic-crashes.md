@@ -9,5 +9,5 @@ resources:
     format: csv
 license: 'https://detroitmi.gov/privacy'
 category:
-  - Safety
+  - Public Safety
 ---
