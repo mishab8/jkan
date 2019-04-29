@@ -1,5 +1,5 @@
 ---
-<!-- schema: default -->
+schema: default
 title: City of Tulsa Collision Data
 organization: City of Tulsa
 notes: List of all Collisions within the City of Tulsa divided by year
