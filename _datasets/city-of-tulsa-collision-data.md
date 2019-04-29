@@ -30,5 +30,5 @@ resources:
     format: xls
 license: 'https://www.cityoftulsa.org/government/departments/communications/legal-disclaimer/'
 category:
-  - Public Safety
+  - Safety
 ---

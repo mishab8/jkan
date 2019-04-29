@@ -9,5 +9,5 @@ resources:
     format: csv
 license: 'https://www.chicago.gov/city/en/narr/foia/data_disclaimer.html'
 category:
-  - Public Safety
+  - Safety
 ---
