@@ -1,4 +1,8 @@
-.organization-thumbnail img {
+.jumbotron {
+	background-color: #ffffff;
+}
+
+/* .organization-thumbnail img {
   width: 64px;
 }
 
@@ -31,10 +35,10 @@ dataset {
 
 .add-dataset-btn {
   margin-top: 15px;
-}
+} */
 
 /* Hidden from guests */
-.user-issue,
+/* .user-issue,
 .admin-only {
   display: none;
 }
@@ -59,10 +63,10 @@ dataset {
 .homepage-categories,
 .theme-gallery {
   text-align: justify;
-}
+} */
 
 /* allows last line of categories to be justify aligned */
-.homepage-categories:after,
+/* .homepage-categories:after,
 .theme-gallery:after {
   display: inline-block;
   width: 100%;
@@ -97,4 +101,4 @@ dataset {
 
 .theme-gallery .panel-primary {
   border-width: 5px;
-}
+} */
