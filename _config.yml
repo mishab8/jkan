@@ -1,6 +1,6 @@
 title: STDP
-greeting: Welcome to the Small Town Data Portal
-description: A place where small towns can publish their open data 
+greeting: Welcome to the Transportation Safety Data Portal
+description: A portal where you can find datasets on traffic safety. 
 baseurl: /jkan
 logo: /img/jkan.png
 
