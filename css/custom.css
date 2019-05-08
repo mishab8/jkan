@@ -1,9 +1,8 @@
 .jumbotron h1 {
-  color: grey;
+  color: black;
 }
 
-@media screen and (min-width: 768px) {
-  .jumbotron h1 {
-  color: blue;
-  }
+.jumbotron {
+  background-color: white;
+  background-image: url(.../img/traffic_photo.jpeg);
 }
