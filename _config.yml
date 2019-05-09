@@ -1,6 +1,6 @@
-title: TSDP
-greeting: Welcome to the Transportation Safety Data Portal
-description: A portal where you can find datasets on traffic safety.
+title: PSDP
+greeting: Welcome to the Public Safety Data Portal
+description: A portal where you can find datasets on public safety.
 baseurl: /jkan
 logo: /img/jkan.png
 

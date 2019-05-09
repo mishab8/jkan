@@ -1,7 +1,7 @@
 ---
-<!-- schema: default -->
+schema: default
 title: Detroit Traffic Crashes
-organization: Detroit Open Data Portal
+organization: Southeast Michigan Council of Governments
 notes: All reported traffic crashes in Detroit from 2011-2016.
 resources:
   - name: Detroit Traffic Crashes CSV
@@ -9,5 +9,5 @@ resources:
     format: csv
 license: 'https://detroitmi.gov/privacy'
 category:
-  - Safety
+  - Traffic Accidents
 ---

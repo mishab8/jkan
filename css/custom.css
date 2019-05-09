@@ -1,8 +1,16 @@
 .jumbotron h1 {
-  color: black;
+  color: white;
+}
+
+.jumbotron p {
+  color: white;
 }
 
 .jumbotron {
   background-color: white;
-  background-image: url(.../img/traffic_photo.jpeg);
+  background-image: url("/jkan/img/traffic-overhead.png");
+}
+
+.thumbnail {
+  position: relative;
 }

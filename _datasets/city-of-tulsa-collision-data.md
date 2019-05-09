@@ -1,7 +1,7 @@
 ---
 schema: default
 title: City of Tulsa Collision Data
-organization: City of Tulsa
+organization: City of Tulsa Oklahoma
 notes: List of all Collisions within the City of Tulsa divided by year
 resources:
   - name: City of Tulsa Collision Data 2014 XLS
@@ -28,7 +28,7 @@ resources:
   - name: City of Tulsa Collision Data 2007 XLS
     url: 'https://www.cityoftulsa.org/apps/opendata/Collisions-2007.xlsx'
     format: xls
-license: 'https://www.cityoftulsa.org/government/departments/communications/legal-disclaimer/'
+license: https://www.cityoftulsa.org/government/departments/communications/legal-disclaimer/
 category:
-  - Safety
+  - Traffic Accidents
 ---

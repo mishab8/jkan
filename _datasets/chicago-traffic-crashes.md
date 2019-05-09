@@ -1,13 +1,13 @@
 ---
-<!-- schema: default -->
+schema: default
 title: Chicago Traffic Crashes - Crashes
-organization: Chicago Data Portal
-notes: Crash data shows information about each traffic crash on city streets within the City of Chicago limits and under the jurisdiction of Chicago Police Department (CPD)
+organization: City of Chicago
+notes: This dataset reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present, minus the most recent seven days.
 resources:
   - name: Chicago Traffic Crashes - Crashes CSV
-    url: 'https://data.cityofchicago.org/api/views/85ca-t3if/rows.csv?accessType=DOWNLOAD'
+    url: 'https://data.cityofchicago.org/api/views/ijzp-q8t2/rows.csv?accessType=DOWNLOAD'
     format: csv
 license: 'https://www.chicago.gov/city/en/narr/foia/data_disclaimer.html'
 category:
-  - Safety
+  - Traffic Accidents
 ---
